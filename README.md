@@ -1,4 +1,4 @@
-# Long-term_time_series_Of_Wakayama_Prefecture_figure_-Wakayama_as_viewed_from_the_100_index_of-
+# long-term_time_series_of_wakayama_prefecture_figure_-wakayama_as_viewed_from_the_100_index_of-
 　【指標からみた和歌山県のすがた  です。】
 ◆「指標からみた和歌山県のすがた」とは
 　 全国における和歌山県の地域特性と、県内におけるわが ”まち”の地域特性を、 人口・産業・居住環境などの各分野にわたる統計指標から表し、手軽に利用して いただけるように簡単な解説を付けて編集したものです。
